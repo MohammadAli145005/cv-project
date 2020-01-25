@@ -1,0 +1,111 @@
+*{
+margin:0;
+padding:0;
+
+}
+
+
+body{
+
+background-color: aqua;
+font: status-bar;;
+
+}
+.cntnr{
+max-width: 1000px;
+
+background-color: lightcoral;
+margin: 0 auto;
+padding:15px;
+}
+
+#img{
+    height:100px;
+     width:100px;
+    border:5px red solid;
+    border-radius: 50%;
+    padding: 3px;
+    float:left;
+}
+.text2{
+
+float: left;
+padding-top: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+color: lightcyan;
+
+}
+.header-contact{
+    float: right;
+}
+.header-contact ul li a{
+text-decoration: none;
+color: lightpink;
+font-weight: bold;
+}
+.header-contact ul li a:hover{
+text-decoratio:underline;
+color: maroon;
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+border:2px rgba(0, 6, 8, 0.733) solid ;
+widows: 100%;
+margin:20px auto ;
+padding: 0%;
+}
+#personal-section{
+
+
+}
+.content{
+    margin-top: 30px;
+
+
+}
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+width: 70%;
+float:right;
+
+}
+.common-hr{
+width:100%;
+border:2px black solid;
+border-bottom: none;
+margin: 10px auto;
+}
+.work-e-p{
+
+    
+}
+.right-div-part-1{
+float: left;
+width:40%;
+
+
+}
+.right-div-part-2{
+float:right;
+width:40%;
+
+}
+.bottom{
+background-color: black;
+text-align: center;
+
+padding: 20px;
+
+}
+.bottom a{
+margin:20px;
+color: brown;
+
+}
